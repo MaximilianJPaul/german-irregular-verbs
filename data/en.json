@@ -1,0 +1,1220 @@
+[
+  {
+    "infinitiv": "beginnen",
+    "prateritum": "begann",
+    "perfect": "hat begonnen",
+    "level": "A1",
+    "translation": "to begin"
+  },
+  {
+    "infinitiv": "bleiben",
+    "prateritum": "blieb",
+    "perfect": "ist geblieben",
+    "level": "A1",
+    "translation": "to stay"
+  },
+  {
+    "infinitiv": "bringen",
+    "prateritum": "brachte",
+    "perfect": "hat gebracht",
+    "level": "A1",
+    "translation": "to bring"
+  },
+  {
+    "infinitiv": "denken",
+    "prateritum": "dachte",
+    "perfect": "hat gedacht",
+    "level": "A1",
+    "translation": "to think"
+  },
+  {
+    "infinitiv": "dürfen",
+    "prateritum": "durfte",
+    "perfect": "hat gedurft",
+    "level": "A1",
+    "translation": "to be allowed to"
+  },
+  {
+    "infinitiv": "essen",
+    "prateritum": "aß",
+    "perfect": "hat gegessen",
+    "level": "A1",
+    "translation": "to eat"
+  },
+  {
+    "infinitiv": "fahren",
+    "prateritum": "fuhr",
+    "perfect": "hat/ist gefahren",
+    "level": "A1",
+    "translation": "to drive, to travel"
+  },
+  {
+    "infinitiv": "fangen",
+    "prateritum": "fing",
+    "perfect": "hat gefangen",
+    "level": "A1",
+    "translation": "to catch"
+  },
+  {
+    "infinitiv": "finden",
+    "prateritum": "fand",
+    "perfect": "hat gefunden",
+    "level": "A1",
+    "translation": "to find"
+  },
+  {
+    "infinitiv": "fliegen",
+    "prateritum": "flog",
+    "perfect": "hat/ist geflogen",
+    "level": "A1",
+    "translation": "to fly"
+  },
+  {
+    "infinitiv": "geben",
+    "prateritum": "gab",
+    "perfect": "hat gegeben",
+    "level": "A1",
+    "translation": "to give"
+  },
+  {
+    "infinitiv": "gehen",
+    "prateritum": "ging",
+    "perfect": "ist gegangen",
+    "level": "A1",
+    "translation": "to go"
+  },
+  {
+    "infinitiv": "haben",
+    "prateritum": "hatte",
+    "perfect": "hat gehabt",
+    "level": "A1",
+    "translation": "to have"
+  },
+  {
+    "infinitiv": "heißen",
+    "prateritum": "hieß",
+    "perfect": "hat geheißen",
+    "level": "A1",
+    "translation": "to be called"
+  },
+  {
+    "infinitiv": "helfen",
+    "prateritum": "half",
+    "perfect": "hat geholfen",
+    "level": "A1",
+    "translation": "to help"
+  },
+  {
+    "infinitiv": "kennen",
+    "prateritum": "kannte",
+    "perfect": "hat gekannt",
+    "level": "A1",
+    "translation": "to know (be acquainted with)"
+  },
+  {
+    "infinitiv": "kommen",
+    "prateritum": "kam",
+    "perfect": "ist gekommen",
+    "level": "A1",
+    "translation": "to come"
+  },
+  {
+    "infinitiv": "können",
+    "prateritum": "konnte",
+    "perfect": "hat gekonnt",
+    "level": "A1",
+    "translation": "can, to be able to"
+  },
+  {
+    "infinitiv": "lesen",
+    "prateritum": "las",
+    "perfect": "hat gelesen",
+    "level": "A1",
+    "translation": "to read"
+  },
+  {
+    "infinitiv": "mögen",
+    "prateritum": "mochte",
+    "perfect": "hat gemocht",
+    "level": "A1",
+    "translation": "to like"
+  },
+  {
+    "infinitiv": "müssen",
+    "prateritum": "musste",
+    "perfect": "hat gemusst",
+    "level": "A1",
+    "translation": "must, to have to"
+  },
+  {
+    "infinitiv": "nehmen",
+    "prateritum": "nahm",
+    "perfect": "hat genommen",
+    "level": "A1",
+    "translation": "to take"
+  },
+  {
+    "infinitiv": "rufen",
+    "prateritum": "rief",
+    "perfect": "hat gerufen",
+    "level": "A1",
+    "translation": "to call, to shout"
+  },
+  {
+    "infinitiv": "schlafen",
+    "prateritum": "schlief",
+    "perfect": "hat geschlafen",
+    "level": "A1",
+    "translation": "to sleep"
+  },
+  {
+    "infinitiv": "schreiben",
+    "prateritum": "schrieb",
+    "perfect": "hat geschrieben",
+    "level": "A1",
+    "translation": "to write"
+  },
+  {
+    "infinitiv": "schwimmen",
+    "prateritum": "schwamm",
+    "perfect": "hat/ist geschwommen",
+    "level": "A1",
+    "translation": "to swim"
+  },
+  {
+    "infinitiv": "sehen",
+    "prateritum": "sah",
+    "perfect": "hat gesehen",
+    "level": "A1",
+    "translation": "to see"
+  },
+  {
+    "infinitiv": "sein",
+    "prateritum": "war",
+    "perfect": "ist gewesen",
+    "level": "A1",
+    "translation": "to be"
+  },
+  {
+    "infinitiv": "singen",
+    "prateritum": "sang",
+    "perfect": "hat gesungen",
+    "level": "A1",
+    "translation": "to sing"
+  },
+  {
+    "infinitiv": "sollen",
+    "prateritum": "sollte",
+    "perfect": "hat gesollt",
+    "level": "A1",
+    "translation": "should, to be supposed to"
+  },
+  {
+    "infinitiv": "sprechen",
+    "prateritum": "sprach",
+    "perfect": "hat gesprochen",
+    "level": "A1",
+    "translation": "to speak"
+  },
+  {
+    "infinitiv": "stehen",
+    "prateritum": "stand",
+    "perfect": "hat gestanden",
+    "level": "A1",
+    "translation": "to stand"
+  },
+  {
+    "infinitiv": "treffen",
+    "prateritum": "traf",
+    "perfect": "hat getroffen",
+    "level": "A1",
+    "translation": "to meet, to hit"
+  },
+  {
+    "infinitiv": "trinken",
+    "prateritum": "trank",
+    "perfect": "hat getrunken",
+    "level": "A1",
+    "translation": "to drink"
+  },
+  {
+    "infinitiv": "tun",
+    "prateritum": "tat",
+    "perfect": "hat getan",
+    "level": "A1",
+    "translation": "to do"
+  },
+  {
+    "infinitiv": "wissen",
+    "prateritum": "wusste",
+    "perfect": "hat gewusst",
+    "level": "A1",
+    "translation": "to know (a fact)"
+  },
+  {
+    "infinitiv": "wollen",
+    "prateritum": "wollte",
+    "perfect": "hat gewollt",
+    "level": "A1",
+    "translation": "to want"
+  },
+  {
+    "infinitiv": "backen",
+    "prateritum": "buk",
+    "perfect": "hat gebacken",
+    "level": "A2",
+    "translation": "to bake"
+  },
+  {
+    "infinitiv": "biegen",
+    "prateritum": "bog",
+    "perfect": "hat/ist gebogen",
+    "level": "A2",
+    "translation": "to bend, to turn"
+  },
+  {
+    "infinitiv": "bieten",
+    "prateritum": "bot",
+    "perfect": "hat geboten",
+    "level": "A2",
+    "translation": "to offer"
+  },
+  {
+    "infinitiv": "bitten",
+    "prateritum": "bat",
+    "perfect": "hat gebeten",
+    "level": "A2",
+    "translation": "to ask, to request"
+  },
+  {
+    "infinitiv": "braten",
+    "prateritum": "briet",
+    "perfect": "hat gebraten",
+    "level": "A2",
+    "translation": "to fry, to roast"
+  },
+  {
+    "infinitiv": "fallen",
+    "prateritum": "fiel",
+    "perfect": "ist gefallen",
+    "level": "A2",
+    "translation": "to fall"
+  },
+  {
+    "infinitiv": "gefallen",
+    "prateritum": "gefiel",
+    "perfect": "hat gefallen",
+    "level": "A2",
+    "translation": "to please, to be liked"
+  },
+  {
+    "infinitiv": "gewinnen",
+    "prateritum": "gewann",
+    "perfect": "hat gewonnen",
+    "level": "A2",
+    "translation": "to win"
+  },
+  {
+    "infinitiv": "laden",
+    "prateritum": "lud",
+    "perfect": "hat geladen",
+    "level": "A2",
+    "translation": "to load, to charge"
+  },
+  {
+    "infinitiv": "laufen",
+    "prateritum": "lief",
+    "perfect": "ist gelaufen",
+    "level": "A2",
+    "translation": "to run, to walk"
+  },
+  {
+    "infinitiv": "liegen",
+    "prateritum": "lag",
+    "perfect": "hat gelegen",
+    "level": "A2",
+    "translation": "to lie (be lying)"
+  },
+  {
+    "infinitiv": "nennen",
+    "prateritum": "nannte",
+    "perfect": "hat genannt",
+    "level": "A2",
+    "translation": "to name, to call"
+  },
+  {
+    "infinitiv": "rennen",
+    "prateritum": "rannte",
+    "perfect": "ist gerannt",
+    "level": "A2",
+    "translation": "to run, to race"
+  },
+  {
+    "infinitiv": "riechen",
+    "prateritum": "roch",
+    "perfect": "hat gerochen",
+    "level": "A2",
+    "translation": "to smell"
+  },
+  {
+    "infinitiv": "schließen",
+    "prateritum": "schloss",
+    "perfect": "hat geschlossen",
+    "level": "A2",
+    "translation": "to close"
+  },
+  {
+    "infinitiv": "sitzen",
+    "prateritum": "saß",
+    "perfect": "hat gesessen",
+    "level": "A2",
+    "translation": "to sit"
+  },
+  {
+    "infinitiv": "steigen",
+    "prateritum": "stieg",
+    "perfect": "ist gestiegen",
+    "level": "A2",
+    "translation": "to climb, to rise"
+  },
+  {
+    "infinitiv": "sterben",
+    "prateritum": "starb",
+    "perfect": "ist gestorben",
+    "level": "A2",
+    "translation": "to die"
+  },
+  {
+    "infinitiv": "treiben",
+    "prateritum": "trieb",
+    "perfect": "hat/ist getrieben",
+    "level": "A2",
+    "translation": "to drive, to drift, to do (sports)"
+  },
+  {
+    "infinitiv": "vergessen",
+    "prateritum": "vergaß",
+    "perfect": "hat vergessen",
+    "level": "A2",
+    "translation": "to forget"
+  },
+  {
+    "infinitiv": "verlieren",
+    "prateritum": "verlor",
+    "perfect": "hat verloren",
+    "level": "A2",
+    "translation": "to lose"
+  },
+  {
+    "infinitiv": "wachsen",
+    "prateritum": "wuchs",
+    "perfect": "ist gewachsen",
+    "level": "A2",
+    "translation": "to grow"
+  },
+  {
+    "infinitiv": "waschen",
+    "prateritum": "wusch",
+    "perfect": "hat gewaschen",
+    "level": "A2",
+    "translation": "to wash"
+  },
+  {
+    "infinitiv": "werden",
+    "prateritum": "wurde",
+    "perfect": "ist geworden",
+    "level": "A2",
+    "translation": "to become"
+  },
+  {
+    "infinitiv": "werfen",
+    "prateritum": "warf",
+    "perfect": "hat geworfen",
+    "level": "A2",
+    "translation": "to throw"
+  },
+  {
+    "infinitiv": "ziehen",
+    "prateritum": "zog",
+    "perfect": "hat/ist gezogen",
+    "level": "A2",
+    "translation": "to pull, to move"
+  },
+  {
+    "infinitiv": "befehlen",
+    "prateritum": "befahl",
+    "perfect": "hat befohlen",
+    "level": "B1",
+    "translation": "to command, to order"
+  },
+  {
+    "infinitiv": "beißen",
+    "prateritum": "biss",
+    "perfect": "hat gebissen",
+    "level": "B1",
+    "translation": "to bite"
+  },
+  {
+    "infinitiv": "binden",
+    "prateritum": "band",
+    "perfect": "hat gebunden",
+    "level": "B1",
+    "translation": "to tie, to bind"
+  },
+  {
+    "infinitiv": "brechen",
+    "prateritum": "brach",
+    "perfect": "hat/ist gebrochen",
+    "level": "B1",
+    "translation": "to break"
+  },
+  {
+    "infinitiv": "brennen",
+    "prateritum": "brannte",
+    "perfect": "hat gebrannt",
+    "level": "B1",
+    "translation": "to burn"
+  },
+  {
+    "infinitiv": "empfehlen",
+    "prateritum": "empfahl",
+    "perfect": "hat empfohlen",
+    "level": "B1",
+    "translation": "to recommend"
+  },
+  {
+    "infinitiv": "erschrecken",
+    "prateritum": "erschrak",
+    "perfect": "ist erschrocken",
+    "level": "B1",
+    "translation": "to be frightened"
+  },
+  {
+    "infinitiv": "fliehen",
+    "prateritum": "floh",
+    "perfect": "ist geflohen",
+    "level": "B1",
+    "translation": "to flee"
+  },
+  {
+    "infinitiv": "fließen",
+    "prateritum": "floss",
+    "perfect": "ist geflossen",
+    "level": "B1",
+    "translation": "to flow"
+  },
+  {
+    "infinitiv": "fressen",
+    "prateritum": "fraß",
+    "perfect": "hat gefressen",
+    "level": "B1",
+    "translation": "to eat (of animals), to devour"
+  },
+  {
+    "infinitiv": "frieren",
+    "prateritum": "fror",
+    "perfect": "hat/ist gefroren",
+    "level": "B1",
+    "translation": "to freeze, to be cold"
+  },
+  {
+    "infinitiv": "gelingen",
+    "prateritum": "gelang",
+    "perfect": "ist gelungen",
+    "level": "B1",
+    "translation": "to succeed"
+  },
+  {
+    "infinitiv": "gelten",
+    "prateritum": "galt",
+    "perfect": "hat gegolten",
+    "level": "B1",
+    "translation": "to be valid, to count as"
+  },
+  {
+    "infinitiv": "genießen",
+    "prateritum": "genoss",
+    "perfect": "hat genossen",
+    "level": "B1",
+    "translation": "to enjoy"
+  },
+  {
+    "infinitiv": "geschehen",
+    "prateritum": "geschah",
+    "perfect": "ist geschehen",
+    "level": "B1",
+    "translation": "to happen"
+  },
+  {
+    "infinitiv": "gießen",
+    "prateritum": "goss",
+    "perfect": "hat gegossen",
+    "level": "B1",
+    "translation": "to pour, to water"
+  },
+  {
+    "infinitiv": "gleichen",
+    "prateritum": "glich",
+    "perfect": "hat geglichen",
+    "level": "B1",
+    "translation": "to resemble"
+  },
+  {
+    "infinitiv": "graben",
+    "prateritum": "grub",
+    "perfect": "hat gegraben",
+    "level": "B1",
+    "translation": "to dig"
+  },
+  {
+    "infinitiv": "greifen",
+    "prateritum": "griff",
+    "perfect": "hat gegriffen",
+    "level": "B1",
+    "translation": "to grab, to grasp"
+  },
+  {
+    "infinitiv": "halten",
+    "prateritum": "hielt",
+    "perfect": "hat gehalten",
+    "level": "B1",
+    "translation": "to hold, to stop"
+  },
+  {
+    "infinitiv": "hängen",
+    "prateritum": "hing",
+    "perfect": "hat gehangen",
+    "level": "B1",
+    "translation": "to hang"
+  },
+  {
+    "infinitiv": "heben",
+    "prateritum": "hob",
+    "perfect": "hat gehoben",
+    "level": "B1",
+    "translation": "to lift"
+  },
+  {
+    "infinitiv": "klingen",
+    "prateritum": "klang",
+    "perfect": "hat geklungen",
+    "level": "B1",
+    "translation": "to sound"
+  },
+  {
+    "infinitiv": "lassen",
+    "prateritum": "ließ",
+    "perfect": "hat gelassen",
+    "level": "B1",
+    "translation": "to let, to leave"
+  },
+  {
+    "infinitiv": "leiden",
+    "prateritum": "litt",
+    "perfect": "hat gelitten",
+    "level": "B1",
+    "translation": "to suffer"
+  },
+  {
+    "infinitiv": "leihen",
+    "prateritum": "lieh",
+    "perfect": "hat geliehen",
+    "level": "B1",
+    "translation": "to lend, to borrow"
+  },
+  {
+    "infinitiv": "lügen",
+    "prateritum": "log",
+    "perfect": "hat gelogen",
+    "level": "B1",
+    "translation": "to lie (tell a lie)"
+  },
+  {
+    "infinitiv": "meiden",
+    "prateritum": "mied",
+    "perfect": "hat gemieden",
+    "level": "B1",
+    "translation": "to avoid"
+  },
+  {
+    "infinitiv": "messen",
+    "prateritum": "maß",
+    "perfect": "hat gemessen",
+    "level": "B1",
+    "translation": "to measure"
+  },
+  {
+    "infinitiv": "raten",
+    "prateritum": "riet",
+    "perfect": "hat geraten",
+    "level": "B1",
+    "translation": "to advise, to guess"
+  },
+  {
+    "infinitiv": "reiben",
+    "prateritum": "rieb",
+    "perfect": "hat gerieben",
+    "level": "B1",
+    "translation": "to rub"
+  },
+  {
+    "infinitiv": "reiten",
+    "prateritum": "ritt",
+    "perfect": "hat/ist geritten",
+    "level": "B1",
+    "translation": "to ride (a horse)"
+  },
+  {
+    "infinitiv": "schaffen",
+    "prateritum": "schuf",
+    "perfect": "hat geschaffen",
+    "level": "B1",
+    "translation": "to create"
+  },
+  {
+    "infinitiv": "scheiden",
+    "prateritum": "schied",
+    "perfect": "hat/ist geschieden",
+    "level": "B1",
+    "translation": "to separate, to divorce"
+  },
+  {
+    "infinitiv": "scheinen",
+    "prateritum": "schien",
+    "perfect": "hat geschienen",
+    "level": "B1",
+    "translation": "to shine, to seem"
+  },
+  {
+    "infinitiv": "scheißen",
+    "prateritum": "schiss",
+    "perfect": "hat geschissen",
+    "level": "B1",
+    "translation": "to shit (vulgar)"
+  },
+  {
+    "infinitiv": "schieben",
+    "prateritum": "schob",
+    "perfect": "hat geschoben",
+    "level": "B1",
+    "translation": "to push"
+  },
+  {
+    "infinitiv": "schießen",
+    "prateritum": "schoss",
+    "perfect": "hat/ist geschossen",
+    "level": "B1",
+    "translation": "to shoot"
+  },
+  {
+    "infinitiv": "schlagen",
+    "prateritum": "schlug",
+    "perfect": "hat geschlagen",
+    "level": "B1",
+    "translation": "to hit, to beat"
+  },
+  {
+    "infinitiv": "schmeißen",
+    "prateritum": "schmiss",
+    "perfect": "hat geschmissen",
+    "level": "B1",
+    "translation": "to throw, to chuck"
+  },
+  {
+    "infinitiv": "schneiden",
+    "prateritum": "schnitt",
+    "perfect": "hat geschnitten",
+    "level": "B1",
+    "translation": "to cut"
+  },
+  {
+    "infinitiv": "schreien",
+    "prateritum": "schrie",
+    "perfect": "hat geschrien",
+    "level": "B1",
+    "translation": "to scream, to shout"
+  },
+  {
+    "infinitiv": "senden",
+    "prateritum": "sandte",
+    "perfect": "hat gesandt",
+    "level": "B1",
+    "translation": "to send"
+  },
+  {
+    "infinitiv": "sinken",
+    "prateritum": "sank",
+    "perfect": "ist gesunken",
+    "level": "B1",
+    "translation": "to sink"
+  },
+  {
+    "infinitiv": "springen",
+    "prateritum": "sprang",
+    "perfect": "ist gesprungen",
+    "level": "B1",
+    "translation": "to jump"
+  },
+  {
+    "infinitiv": "stehlen",
+    "prateritum": "stahl",
+    "perfect": "hat gestohlen",
+    "level": "B1",
+    "translation": "to steal"
+  },
+  {
+    "infinitiv": "stinken",
+    "prateritum": "stank",
+    "perfect": "hat gestunken",
+    "level": "B1",
+    "translation": "to stink"
+  },
+  {
+    "infinitiv": "streiten",
+    "prateritum": "stritt",
+    "perfect": "hat gestritten",
+    "level": "B1",
+    "translation": "to argue, to quarrel"
+  },
+  {
+    "infinitiv": "tragen",
+    "prateritum": "trug",
+    "perfect": "hat getragen",
+    "level": "B1",
+    "translation": "to carry, to wear"
+  },
+  {
+    "infinitiv": "treten",
+    "prateritum": "trat",
+    "perfect": "hat/ist getreten",
+    "level": "B1",
+    "translation": "to step, to kick"
+  },
+  {
+    "infinitiv": "trügen",
+    "prateritum": "trog",
+    "perfect": "hat getrogen",
+    "level": "B1",
+    "translation": "to deceive"
+  },
+  {
+    "infinitiv": "verzeihen",
+    "prateritum": "verzieh",
+    "perfect": "hat verziehen",
+    "level": "B1",
+    "translation": "to forgive"
+  },
+  {
+    "infinitiv": "weisen",
+    "prateritum": "wies",
+    "perfect": "hat gewiesen",
+    "level": "B1",
+    "translation": "to point, to show"
+  },
+  {
+    "infinitiv": "werben",
+    "prateritum": "warb",
+    "perfect": "hat geworben",
+    "level": "B1",
+    "translation": "to advertise, to recruit"
+  },
+  {
+    "infinitiv": "wiegen",
+    "prateritum": "wog",
+    "perfect": "hat gewogen",
+    "level": "B1",
+    "translation": "to weigh"
+  },
+  {
+    "infinitiv": "zwingen",
+    "prateritum": "zwang",
+    "perfect": "hat gezwungen",
+    "level": "B1",
+    "translation": "to force"
+  },
+  {
+    "infinitiv": "bergen",
+    "prateritum": "barg",
+    "perfect": "hat geborgen",
+    "level": "B2",
+    "translation": "to rescue, to recover"
+  },
+  {
+    "infinitiv": "blasen",
+    "prateritum": "blies",
+    "perfect": "hat geblasen",
+    "level": "B2",
+    "translation": "to blow"
+  },
+  {
+    "infinitiv": "gebären",
+    "prateritum": "gebar",
+    "perfect": "hat geboren",
+    "level": "B2",
+    "translation": "to give birth"
+  },
+  {
+    "infinitiv": "pfeifen",
+    "prateritum": "pfiff",
+    "perfect": "hat gepfiffen",
+    "level": "B2",
+    "translation": "to whistle"
+  },
+  {
+    "infinitiv": "reißen",
+    "prateritum": "riss",
+    "perfect": "hat gerissen",
+    "level": "B2",
+    "translation": "to tear, to rip"
+  },
+  {
+    "infinitiv": "ringen",
+    "prateritum": "rang",
+    "perfect": "hat gerungen",
+    "level": "B2",
+    "translation": "to wrestle, to struggle"
+  },
+  {
+    "infinitiv": "saufen",
+    "prateritum": "soff",
+    "perfect": "hat gesoffen",
+    "level": "B2",
+    "translation": "to drink heavily, to booze"
+  },
+  {
+    "infinitiv": "schmelzen",
+    "prateritum": "schmolz",
+    "perfect": "hat/ist geschmolzen",
+    "level": "B2",
+    "translation": "to melt"
+  },
+  {
+    "infinitiv": "schreiten",
+    "prateritum": "schritt",
+    "perfect": "ist geschritten",
+    "level": "B2",
+    "translation": "to stride"
+  },
+  {
+    "infinitiv": "schweigen",
+    "prateritum": "schwieg",
+    "perfect": "hat geschwiegen",
+    "level": "B2",
+    "translation": "to be silent"
+  },
+  {
+    "infinitiv": "schwellen",
+    "prateritum": "schwoll",
+    "perfect": "ist geschwollen",
+    "level": "B2",
+    "translation": "to swell"
+  },
+  {
+    "infinitiv": "schwinden",
+    "prateritum": "schwand",
+    "perfect": "ist geschwunden",
+    "level": "B2",
+    "translation": "to dwindle, to fade"
+  },
+  {
+    "infinitiv": "schwören",
+    "prateritum": "schwor",
+    "perfect": "hat geschworen",
+    "level": "B2",
+    "translation": "to swear"
+  },
+  {
+    "infinitiv": "spinnen",
+    "prateritum": "spann",
+    "perfect": "hat gesponnen",
+    "level": "B2",
+    "translation": "to spin; to be crazy"
+  },
+  {
+    "infinitiv": "stechen",
+    "prateritum": "stach",
+    "perfect": "hat gestochen",
+    "level": "B2",
+    "translation": "to sting, to stab"
+  },
+  {
+    "infinitiv": "stoßen",
+    "prateritum": "stieß",
+    "perfect": "hat/ist gestoßen",
+    "level": "B2",
+    "translation": "to push, to bump"
+  },
+  {
+    "infinitiv": "streichen",
+    "prateritum": "strich",
+    "perfect": "hat/ist gestrichen",
+    "level": "B2",
+    "translation": "to paint, to stroke, to cross out"
+  },
+  {
+    "infinitiv": "verderben",
+    "prateritum": "verdarb",
+    "perfect": "hat/ist verdorben",
+    "level": "B2",
+    "translation": "to spoil, to ruin"
+  },
+  {
+    "infinitiv": "weichen",
+    "prateritum": "wich",
+    "perfect": "ist gewichen",
+    "level": "B2",
+    "translation": "to give way, to yield"
+  },
+  {
+    "infinitiv": "wenden",
+    "prateritum": "wandte",
+    "perfect": "hat gewandt",
+    "level": "B2",
+    "translation": "to turn"
+  },
+  {
+    "infinitiv": "winden",
+    "prateritum": "wand",
+    "perfect": "hat gewunden",
+    "level": "B2",
+    "translation": "to wind, to wriggle"
+  },
+  {
+    "infinitiv": "bewegen",
+    "prateritum": "bewog",
+    "perfect": "hat bewogen",
+    "level": "C1",
+    "translation": "to induce, to persuade"
+  },
+  {
+    "infinitiv": "dringen",
+    "prateritum": "drang",
+    "perfect": "hat/ist gedrungen",
+    "level": "C1",
+    "translation": "to penetrate, to urge"
+  },
+  {
+    "infinitiv": "erlöschen",
+    "prateritum": "erlosch",
+    "perfect": "ist erloschen",
+    "level": "C1",
+    "translation": "to go out, to expire"
+  },
+  {
+    "infinitiv": "fechten",
+    "prateritum": "focht",
+    "perfect": "hat gefochten",
+    "level": "C1",
+    "translation": "to fence, to fight"
+  },
+  {
+    "infinitiv": "gedeihen",
+    "prateritum": "gedieh",
+    "perfect": "ist gediehen",
+    "level": "C1",
+    "translation": "to thrive"
+  },
+  {
+    "infinitiv": "genesen",
+    "prateritum": "genas",
+    "perfect": "ist genesen",
+    "level": "C1",
+    "translation": "to recover (from illness)"
+  },
+  {
+    "infinitiv": "gleiten",
+    "prateritum": "glitt",
+    "perfect": "ist geglitten",
+    "level": "C1",
+    "translation": "to glide, to slide"
+  },
+  {
+    "infinitiv": "klimmen",
+    "prateritum": "klomm",
+    "perfect": "ist geklommen",
+    "level": "C1",
+    "translation": "to climb"
+  },
+  {
+    "infinitiv": "kneifen",
+    "prateritum": "kniff",
+    "perfect": "hat gekniffen",
+    "level": "C1",
+    "translation": "to pinch"
+  },
+  {
+    "infinitiv": "kriechen",
+    "prateritum": "kroch",
+    "perfect": "ist gekrochen",
+    "level": "C1",
+    "translation": "to crawl"
+  },
+  {
+    "infinitiv": "melken",
+    "prateritum": "molk",
+    "perfect": "hat gemolken",
+    "level": "C1",
+    "translation": "to milk"
+  },
+  {
+    "infinitiv": "preisen",
+    "prateritum": "pries",
+    "perfect": "hat gepriesen",
+    "level": "C1",
+    "translation": "to praise"
+  },
+  {
+    "infinitiv": "quellen",
+    "prateritum": "quoll",
+    "perfect": "ist gequollen",
+    "level": "C1",
+    "translation": "to well up, to swell"
+  },
+  {
+    "infinitiv": "rinnen",
+    "prateritum": "rann",
+    "perfect": "ist geronnen",
+    "level": "C1",
+    "translation": "to run, to trickle"
+  },
+  {
+    "infinitiv": "saugen",
+    "prateritum": "sog",
+    "perfect": "hat gesogen",
+    "level": "C1",
+    "translation": "to suck"
+  },
+  {
+    "infinitiv": "schleichen",
+    "prateritum": "schlich",
+    "perfect": "ist geschlichen",
+    "level": "C1",
+    "translation": "to sneak, to creep"
+  },
+  {
+    "infinitiv": "schleifen",
+    "prateritum": "schliff",
+    "perfect": "hat geschliffen",
+    "level": "C1",
+    "translation": "to sharpen, to grind"
+  },
+  {
+    "infinitiv": "schlingen",
+    "prateritum": "schlang",
+    "perfect": "hat geschlungen",
+    "level": "C1",
+    "translation": "to wrap, to wind; to gulp down"
+  },
+  {
+    "infinitiv": "schwingen",
+    "prateritum": "schwang",
+    "perfect": "hat/ist geschwungen",
+    "level": "C1",
+    "translation": "to swing"
+  },
+  {
+    "infinitiv": "sinnen",
+    "prateritum": "sann",
+    "perfect": "hat gesonnen",
+    "level": "C1",
+    "translation": "to ponder, to plot"
+  },
+  {
+    "infinitiv": "sprießen",
+    "prateritum": "spross",
+    "perfect": "ist gesprossen",
+    "level": "C1",
+    "translation": "to sprout"
+  },
+  {
+    "infinitiv": "wringen",
+    "prateritum": "wrang",
+    "perfect": "hat gewrungen",
+    "level": "C1",
+    "translation": "to wring"
+  },
+  {
+    "infinitiv": "bersten",
+    "prateritum": "barst",
+    "perfect": "ist geborsten",
+    "level": "C2",
+    "translation": "to burst"
+  },
+  {
+    "infinitiv": "bleichen",
+    "prateritum": "blich",
+    "perfect": "ist geblichen",
+    "level": "C2",
+    "translation": "to fade, to bleach"
+  },
+  {
+    "infinitiv": "dreschen",
+    "prateritum": "drosch",
+    "perfect": "hat gedroschen",
+    "level": "C2",
+    "translation": "to thresh"
+  },
+  {
+    "infinitiv": "flechten",
+    "prateritum": "flocht",
+    "perfect": "hat geflochten",
+    "level": "C2",
+    "translation": "to braid, to weave"
+  },
+  {
+    "infinitiv": "glimmen",
+    "prateritum": "glomm",
+    "perfect": "hat geglommen",
+    "level": "C2",
+    "translation": "to glow, to smoulder"
+  },
+  {
+    "infinitiv": "hauen",
+    "prateritum": "hieb",
+    "perfect": "hat gehauen",
+    "level": "C2",
+    "translation": "to hit, to strike"
+  },
+  {
+    "infinitiv": "schelten",
+    "prateritum": "schalt",
+    "perfect": "hat gescholten",
+    "level": "C2",
+    "translation": "to scold"
+  },
+  {
+    "infinitiv": "scheren",
+    "prateritum": "schor",
+    "perfect": "hat geschoren",
+    "level": "C2",
+    "translation": "to shear"
+  },
+  {
+    "infinitiv": "speien",
+    "prateritum": "spie",
+    "perfect": "hat gespien",
+    "level": "C2",
+    "translation": "to spit, to spew"
+  },
+  {
+    "infinitiv": "stieben",
+    "prateritum": "stob",
+    "perfect": "hat/ist gestoben",
+    "level": "C2",
+    "translation": "to scatter, to fly (sparks)"
+  },
+  {
+    "infinitiv": "verdrießen",
+    "prateritum": "verdross",
+    "perfect": "hat verdrossen",
+    "level": "C2",
+    "translation": "to annoy, to vex"
+  },
+  {
+    "infinitiv": "weben",
+    "prateritum": "wob",
+    "perfect": "hat gewoben",
+    "level": "C2",
+    "translation": "to weave"
+  }
+]
